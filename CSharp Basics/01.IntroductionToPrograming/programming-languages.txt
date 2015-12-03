@@ -1,0 +1,21 @@
+There is a lot of kind to choice whitch language we prefere.All of them are differend and similar at the same time.
+The most popular languages are Java,C,C#,Python,PHP. Java is the number one programming language today for many reasons,
+It is a well-organized language with a strong library of reusable software components.Architectures and operating systems
+ because of the use of the JVM( Java virtual machine). Sometimes this is referred to as code portability or even WORA
+ ( write once, run anywhere )„C” is a compiled, procedural language developed in 1972 by DennisRitchie for use in the UNIX
+operating system. Although designed to beportable in nature, C programs must be specifically compiled for computers with
+different architectures and operating systems. This helps make them lightning fast. Although C is a relatively old
+language, it is still widely used for system programming, writing other programming languages, and in embedded systems.
+The "C" Force is that it is faster, but its weakness is that the memory management can be difficult to master.C# is a 
+compiled, object-oriented language written by Microsoft. It is an open specification, but rarely seen on any non-Windows
+platform.C# was conceived as Microsoft's premium language in its .NETFramework. It is very similar to Java in both syntax
+and nature."C#" Force is that it is powerful and pretty fast, but can only reslly suitable for WindowsPython is 
+interpretiruem, interactive, object-oriented programming language created by Guido van Rossum in the early 90s.
+Since Python is a language that is interpreted, saving significant development time, since they are not required compiling
+and linking (linking) to test an application. Besides being interpretiruem language ideology similar to that of Java,
+an application written on it is relatively easy portable to many of the other platformiProgramite written in Python,
+are quite compact and readable.PHP uses a run-time interpreter, and is a multi-paradigm language originally developed 
+in 1996 by Rasmus Lerdorf to create dynamic web pages. At first it was not even a real programming language, but over
+time it eventually grew into a fully featured object-oriented programming language. Although PHP has been much criticized
+in the past for being a bit sloppy and insecure, it's been pretty good sinceversion 5 came out in 2004. It's hard to argue
+with success. Today,PHP is the most popular language used to write web applications.
